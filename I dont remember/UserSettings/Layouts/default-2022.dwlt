@@ -322,23 +322,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Pedro
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Pedro
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\USER\Documents\Repitos\I_DONT_REMEMBER\I dont remember
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e2580000
-    m_LastClickedID: 22754
-    m_ExpandedIDs: 00000000e2580000ee58000000ca9a3b
+    m_SelectedIDs: f0580000
+    m_LastClickedID: 22768
+    m_ExpandedIDs: 00000000d858000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -366,7 +366,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e2580000
+    m_ExpandedIDs: 00000000d8580000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -504,9 +504,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: f4580000
       m_LastClickedID: 0
-      m_ExpandedIDs: 74f8ffff2cfbffff
+      m_ExpandedIDs: aef8ffff2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
